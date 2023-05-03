@@ -1,4 +1,4 @@
-# image-switcher
+# 简易的南京地理图片分析系统
 
 ## Project setup
 ```
