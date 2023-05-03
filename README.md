@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-###下载必要的库
+下载必要的库
 ### Compiles and hot-reloads for development
 ```
 npm run serve
